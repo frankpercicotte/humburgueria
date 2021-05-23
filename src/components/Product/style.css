@@ -1,20 +1,21 @@
 .product {
   margin: 1vh 1vw;
-  padding-top: .7vh;
+  padding: 0.7vh;
   display: flex;
   width: 15vw;
   flex-direction: column;
   justify-content: start;
-  align-items: center; 
-  border: 2px solid blue;  
+  align-items: center;
+  border: 2px solid blue;
+  border-radius: 10px;
+  background-color: lime;
 }
 
 button {
-    margin: 1vh;
-    padding: .5vh .5vw;
-    font-size: medium;
-    font-weight: 700;
-    color: white;
-    background-color: blue;
-
+  margin: 1vh;
+  padding: 0.5vh 0.5vw;
+  font-size: medium;
+  font-weight: 700;
+  color: white;
+  background-color: blue;
 }
