@@ -1,0 +1,13 @@
+input {
+    margin: 2vh auto;
+    padding: .5vh 1vw;
+    font-size: medium;
+    color: purple;
+    font-weight: 600;
+}
+
+.btn{
+    margin-left: 1vw;
+    color: white;
+    background-color: blue;
+}
